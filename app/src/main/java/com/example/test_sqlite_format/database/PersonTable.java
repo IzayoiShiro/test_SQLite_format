@@ -7,7 +7,7 @@ import android.provider.BaseColumns;
  */
 public class PersonTable {
     public static class Person implements BaseColumns {
-        public static final String TABLE_NAME = "person";
+        public static final String TABLE_NAME = "persons";
         public static final String NAME = "name";
         public static final String NUMBER = "number";
     }
